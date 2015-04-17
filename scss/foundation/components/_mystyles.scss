@@ -1,0 +1,152 @@
+/*==================================
+           My Styles
+===================================*/
+
+body {
+  overflow-y: scroll;
+}
+
+h1, h2, h3, h4, h5, img, p, a {
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.row {
+  //padding: 1rem 0 0;
+}
+.row-inner {
+  margin: 0 auto;
+  max-width: 90rem;
+  width: 100%;
+}
+.nav-top, .local, .utility {
+  padding-top: 1rem;
+}
+.nav {
+  li {
+    display: inline-block;
+    list-style-type: none;
+  }
+  a {
+   font-family: $font-family-primary-nav;
+   letter-spacing: .08rem;
+   padding: .25rem 1rem;
+   text-transform: uppercase;
+  }
+}
+.nav-bar-main {
+  background: $color-main;
+  
+  .columns {
+    height: 72px;
+    
+    &:last-of-type {
+      background: rgba(0, 0, 0, .1);
+    }
+  }
+
+  a {
+    color: rgba(255,255,255,1);
+    font-size: .8rem;
+    padding: 1.75em;
+  }
+
+  &:hover li a {
+    opacity: .5;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
+.nav-bar-top {
+   height: 60px;
+
+  .columns {
+
+    &:last-of-type {
+      max-width: 180px;
+    }
+  }
+  a {
+    color: $aluminum ;
+    font-size: .55rem;
+ }
+}
+
+.nav-main {
+  padding-top: 1.3em;
+}
+.local {
+  background: url("../img/FABC-text.png") no-repeat 0 90%;
+  text-indent: -99999999em;
+  small {
+
+  }
+}
+.logo {
+  background: url(../img/fabc-logo.png) no-repeat;
+  display: block;
+  height: 258px;
+  width: 212px;
+  margin-top: 28px;
+  margin-left: 12%;
+  text-indent: -99999px;
+  font-size: 1px;
+  position: absolute;
+  opacity: 1;
+  white-space: nowrap;
+  z-index: 200;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+
+  &:hover {
+    margin-top: 32px;
+  }
+}
+.utility {
+
+  a {
+    opacity: .75;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
+.reveal-modal-bg {
+  background: rgba(0,0,0,.2);
+}
+.reveal-modal {
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  //margin-top: 65px !important;
+  
+  h2 {
+    padding-top: 50px;
+  }
+}
+.close-reveal-modal {
+  background: url("../img/close-x.png") no-repeat;
+  color: rgba(255,255,255,0) !important;
+  height: 40px;
+  margin: .5em .5em 0 0;
+  opacity: .7;
+  width: 40px;
+
+  &:hover {
+    opacity: 1;
+  }
+}
+.banner {
+  background: url("../img/banner-img/banner-img-1.jpg");
+
+  height: 539px;
+}

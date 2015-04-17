@@ -1,0 +1,10 @@
+.allTransition {
+  transition: all .25s ease;
+  -moz-transition: all .25s ease;
+  -webkit-transition: all .25s ease;
+}
+.allTransitionSlow {
+  transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -webkit-transition: all .5s ease;
+}
