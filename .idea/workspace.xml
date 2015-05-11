@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1245c807-bc5c-450f-9f4c-05f8ba0898ab" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/foundation/components/animate.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/extralayers.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.themepunch.revolution.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.themepunch.tools.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/settings.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpage-one.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/waypoints-sticky.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/waypoints.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/_block-grid.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/_block-grid.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/_buttons.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/_buttons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/_fonts.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/_fonts.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/_functions.scss" afterPath="$PROJECT_DIR$/scss/foundation/_functions.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/_global.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/_global.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/_mystyles.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/_mystyles.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/_panels.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/_panels.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/_settings.scss" afterPath="$PROJECT_DIR$/scss/foundation/_settings.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/_type.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/_type.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/_variables.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/foundation.css" afterPath="$PROJECT_DIR$/css/foundation.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/foundation.min.js" afterPath="$PROJECT_DIR$/js/foundation.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation.scss" afterPath="$PROJECT_DIR$/scss/foundation.scss" />
+    <list default="true" id="1245c807-bc5c-450f-9f4c-05f8ba0898ab" name="Default" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;Conflicts:&#10;&#9;index.html&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="First-African-Baptist-Church-2015.iws" />
@@ -74,11 +53,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.2781186">
+              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -96,10 +75,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_mystyles.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_mystyles.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/foundation/components/_mystyles.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.92608696">
+            <state vertical-scroll-proportion="-7.7454543">
               <caret line="1175" column="0" selection-start-line="1175" selection-start-column="0" selection-end-line="1175" selection-end-column="0" />
               <folding />
             </state>
@@ -212,9 +191,9 @@
         <option value="$PROJECT_DIR$/js/jquery.fadethis.min.js" />
         <option value="$PROJECT_DIR$/scss/foundation/components/animate.scss" />
         <option value="$PROJECT_DIR$/scss/foundation.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/subpage-one.html" />
         <option value="$PROJECT_DIR$/scss/foundation/components/_mystyles.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -439,20 +418,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="674" extended-state="1" />
+    <frame x="0" y="0" width="1366" height="674" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22439758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5156538" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Compare Directories" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296501" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25888324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35532996" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -476,7 +455,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Top section first round" />
-    <option name="LAST_COMMIT_MESSAGE" value="Top section first round" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;Conflicts:&#10;&#9;index.html&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;Conflicts:&#10;&#9;index.html&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -840,16 +820,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/subpage-one.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -860,9 +830,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/foundation/components/_mystyles.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.92608696">
+        <state vertical-scroll-proportion="-7.7454543">
           <caret line="1175" column="0" selection-start-line="1175" selection-start-column="0" selection-end-line="1175" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2781186">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
