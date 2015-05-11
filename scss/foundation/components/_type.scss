@@ -7,7 +7,7 @@
 $include-html-type-classes: $include-html-classes !default;
 
 // We use these to control header font styles
-$header-font-family: $body-font-family !default;
+$header-font-family: 'montserratregular' !default;
 $header-font-weight: $font-weight-normal !default;
 $header-font-style: normal !default;
 $header-font-color: $jet !default;
@@ -17,11 +17,11 @@ $header-bottom-margin: .5rem !default;
 $header-text-rendering: optimizeLegibility !default;
 
 // We use these to control header font sizes
-$h1-font-size: rem-calc(44) !default;
-$h2-font-size: rem-calc(37) !default;
-$h3-font-size: rem-calc(27) !default;
-$h4-font-size: rem-calc(23) !default;
-$h5-font-size: rem-calc(18) !default;
+$h1-font-size: rem-calc(26) !default; //44
+$h2-font-size: rem-calc(20) !default; //37
+$h3-font-size: rem-calc(16) !default; //27
+$h4-font-size: rem-calc(14) !default; //23
+$h5-font-size: rem-calc(12) !default; //18
 $h6-font-size: 1rem !default;
 
 // We use these to control header size reduction on small screens
@@ -46,8 +46,8 @@ $small-font-color: scale-color($header-font-color, $lightness: 35%) !default;
 // We use these to style paragraphs
 $paragraph-font-family: inherit !default;
 $paragraph-font-weight: $font-weight-normal !default;
-$paragraph-font-size: 1rem !default;
-$paragraph-line-height: 1.6 !default;
+$paragraph-font-size: .9rem !default;
+$paragraph-line-height: 1.75 !default;
 $paragraph-margin-bottom: rem-calc(20) !default;
 $paragraph-aside-font-size: rem-calc(14) !default;
 $paragraph-aside-line-height: 1.35 !default;
@@ -235,6 +235,7 @@ $align-class-breakpoints:
       font-family: $paragraph-font-family;
       font-size: $paragraph-font-size;
       font-weight: $paragraph-font-weight;
+      letter-spacing: .025rem;
       line-height: $paragraph-line-height;
       margin-bottom: $paragraph-margin-bottom;
       text-rendering: $paragraph-text-rendering;
@@ -254,10 +255,12 @@ $align-class-breakpoints:
       font-family: $header-font-family;
       font-style: $header-font-style;
       font-weight: $header-font-weight;
+      letter-spacing: .1rem;
       line-height: $header-line-height;
       margin-bottom: $header-bottom-margin;
       margin-top: $header-top-margin;
       text-rendering: $header-text-rendering;
+      text-transform: uppercase;
 
       small {
         color: $small-font-color;
