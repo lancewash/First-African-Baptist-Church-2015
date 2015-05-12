@@ -1425,7 +1425,7 @@ select {
   border: 1px solid rgba(52, 75, 86, 0.1);
   display: block;
   padding: 2.5rem 2rem;
-  margin: 0 -0.625rem;
+  margin: 2.5rem -0.625rem;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   -ms-transition: all 0.5s;
@@ -9271,8 +9271,43 @@ strong {
 .centered h2:before {
   left: 175px;
 }
-.centered .intro {
+
+.intro {
   margin-bottom: 4rem;
+  padding: 8rem 0;
+}
+.intro img {
+  display: block;
+  margin: 0 auto 2rem;
+}
+.intro ul {
+  list-style-type: none;
+}
+.intro ul li:first-child {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.intro ul a {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  color: rgba(0, 0, 0, 0.5);
+  display: block;
+  font-size: .8rem;
+  padding: .5rem 1rem;
+}
+.intro ul a:hover {
+  border-color: rgba(0, 0, 0, 0.25);
+  color: #D97B29;
+}
+.intro blockquote {
+  color: black;
+  font-family: serif;
+  font-size: .9rem;
+  font-style: italic;
+  text-align: center;
+  border-right: 1px solid #ddd;
+}
+
+.sidebar-nav {
+  border-left: 1px solid rgba(0, 0, 0, 0.01);
 }
 
 .nav-top, .local {
@@ -9360,7 +9395,7 @@ strong {
   margin-top: 14px;
 }
 .stuck .logo:hover {
-  margin-top: 4px;
+  margin-top: 14px;
 }
 
 ul.right:hover li a {

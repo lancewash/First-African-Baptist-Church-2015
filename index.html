@@ -6,10 +6,10 @@
   <title>First African Baptist Church</title>
   <link rel="stylesheet" href="css/foundation.css"/>
   <!--<link rel="stylesheet" href="slick/slick-theme.css"/>-->
-  <script src="js/vendor/modernizr.js"></script>
+  <script src="js/modernizr.js"></script>
 </head>
 <body>
-<main class="page-wrap" role="main">
+<div class="page-wrap">
   <div class="row nav-bar-top">
     <div class="[ columns large-4 medium-4 show-for-large-up ]">
       <p class="local">
@@ -46,7 +46,7 @@
           <nav class="nav nav-main" role="navigation">
             <a href="https://www.biblegateway.com/" target="_blank"><img src="img/bible-gateway.png" alt=""/></a>
             <ul class="right">
-              <li><a href="">Welcome</a></li>
+              <li><a class="animsition-link" href="subpage-one.html">Welcome</a></li>
               <li><a href="">Ministries</a></li>
               <li><a href="">Events</a></li>
               <li><a href="">Credit Union</a></li>
@@ -229,7 +229,7 @@
         <h2>"Word of Life" Bookstore</h2>
 
         <div class="row">
-          <div class="[ columns large-8 large-centered } intro">
+          <div class="[ columns large-8 large-centered }">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi facilis, nihil unde odio error
               perspiciatis
               et iste provident ducimus voluptatum. Mollitia accusamus assumenda aliquid reiciendis voluptatum quos
@@ -300,8 +300,7 @@
     <!--
 ##### End Row Five - Map #####
 -->
-
-  </main>
+</main>
 
   <!--
     #############################################
@@ -571,5 +570,35 @@
     <!--});-->
   <!--</script>-->
   <!--<script src="js/viewportchecker.js"></script>-->
+  <!-- animsition js -->
+  <script src="js/jquery.animsition.min.js"></script>
+  <!--<script>-->
+    <!--$(document).ready(function() {-->
+
+      <!--$(".animsition").animsition({-->
+
+        <!--inClass               :   'fade-in-up-sm',-->
+        <!--outClass              :   'fade-out-up-sm',-->
+        <!--inDuration            :    1000,-->
+        <!--outDuration           :    800,-->
+        <!--linkElement           :   '.animsition-link',-->
+        <!--// e.g. linkElement   :   'a:not([target="_blank"]):not([href^=#])'-->
+        <!--loading               :    true,-->
+        <!--loadingParentElement  :   'main', //animsition wrapper element-->
+        <!--loadingClass          :   'animsition-loading',-->
+        <!--unSupportCss          : [ 'animation-duration',-->
+          <!--'-webkit-animation-duration',-->
+          <!--'-o-animation-duration'-->
+        <!--],-->
+        <!--//"unSupportCss" option allows you to disable the "animsition" in case the css property in the array is not supported by your browser.-->
+        <!--//The default setting is to disable the "animsition" in a browser that does not support "animation-duration".-->
+
+        <!--overlay               :   false,-->
+
+        <!--overlayClass          :   'animsition-overlay-slide',-->
+        <!--overlayParentElement  :   'main'-->
+      <!--});-->
+    <!--});-->
+  <!--</script>-->
 </body>
 </html>
