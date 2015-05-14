@@ -180,7 +180,7 @@ strong {
 }
 .intro {
     margin-bottom: 4rem;
-    padding: 8rem 0;
+    padding: 4rem 0;
   
   img {
     display: block;
@@ -198,25 +198,28 @@ strong {
       
       a {
         border-bottom: 1px solid rgba(0, 0, 0, .1);
-        color: rgba(0, 0, 0, .5);
+        //border-left: 1px dotted transparent;
+        color: $color-highlight;
         display: block;
         font-size: .8rem;
         padding: .5rem 1rem;
 
         &:hover {
           //background: rgba(0, 0, 0, .015);
-          border-color: rgba(0, 0, 0, .25);
-          color: $color-highlight;
+          border-color: lighten($color-highlight, 20%);
+          //border-left: 1px dotted lighten($color-highlight, 20%);
+          color: rgba(0, 0, 0, .5);
+          padding-left: 1.1rem;
         }
       }
     }
     blockquote {
       color: rgba(0,0,0,1);
       font-family: serif;
-      font-size: .9rem;
+      font-size: 1rem;
       font-style: italic;
-      text-align: center;
-      border-right: 1px solid #ddd;
+      //text-align: center;
+      //border-right: 1px solid #ddd;
     }
   }
 .sidebar-nav {
@@ -844,6 +847,10 @@ Randon background
 .header-main {
   max-width: 1440px;
   margin: 0;
+
+  &.stuck {
+    max-width: 100%;
+  }
 }
 
 .header-main .branding {
