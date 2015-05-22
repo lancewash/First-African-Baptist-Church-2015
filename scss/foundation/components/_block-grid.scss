@@ -1,5 +1,5 @@
 [class*="block-grid-"] {
-  border: 1px solid rgba(52, 75, 86, .1);
+  border: 1px solid rgba(52, 75, 86, 0);
   display: block;
   padding: 2.5rem 2rem;
   margin: 2.5rem -0.625rem;
@@ -11,7 +11,7 @@
   transition: all 0.5s;
 
   &:hover {
-    border: 1px solid rgba(52, 75, 86, .25);
+    border: 1px solid rgba(52, 75, 86, .05);
   }
 }
 [class*="block-grid-"]:before, [class*="block-grid-"]:after {

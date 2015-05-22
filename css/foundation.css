@@ -1422,7 +1422,7 @@ select {
   }
 }
 [class*="block-grid-"] {
-  border: 1px solid rgba(52, 75, 86, 0.1);
+  border: 1px solid rgba(52, 75, 86, 0);
   display: block;
   padding: 2.5rem 2rem;
   margin: 2.5rem -0.625rem;
@@ -1433,7 +1433,7 @@ select {
   transition: all 0.5s;
 }
 [class*="block-grid-"]:hover {
-  border: 1px solid rgba(52, 75, 86, 0.25);
+  border: 1px solid rgba(52, 75, 86, 0.05);
 }
 
 [class*="block-grid-"]:before, [class*="block-grid-"]:after {
@@ -9294,7 +9294,7 @@ strong {
   padding: .5rem 1rem;
 }
 .intro ul a:hover {
-  border-color: #e8b080;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.25);
   color: rgba(0, 0, 0, 0.5);
   padding-left: 1.1rem;
 }
