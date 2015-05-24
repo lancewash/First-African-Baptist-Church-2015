@@ -186,16 +186,16 @@ strong {
     display: block;
     margin: 0 auto 2rem;
   }
-  
+  .sidebar-nav {
     ul {
       list-style-type: none;
-      
+
       li {
         &:first-child {
           border-top: 1px solid rgba(0, 0, 0, .1);
         }
       }
-      
+
       a {
         border-bottom: 1px solid rgba(0, 0, 0, .1);
         //border-left: 1px dotted transparent;
@@ -213,6 +213,7 @@ strong {
         }
       }
     }
+  }
     blockquote {
       color: rgba(0,0,0,1);
       font-family: serif;
@@ -447,7 +448,7 @@ ul.right {
   border-radius: 0;
   box-shadow: none;
   padding: 7rem 6rem;
-  top: 0 !important;
+  //top: 0 !important;
   //margin-top: 65px !important;
 
   .row {
@@ -552,8 +553,8 @@ ul.right {
     width: 50%;
 
     h2 {
-      font-size: 1.75rem;
-      letter-spacing: .1rem;
+      font-size: 1.5rem;
+      letter-spacing: .25rem;
     }
     p {
       font-family: $font-family-sans-serif;
