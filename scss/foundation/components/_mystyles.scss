@@ -123,6 +123,10 @@ strong {
 .column, .columns {
   padding-left: 1.25rem !important;
   padding-right: 1.25rem !important;
+  
+  &.left {
+    clear: left;
+  }
 
   h2 {
 
@@ -179,8 +183,16 @@ strong {
   // }
 }
 .intro {
-    margin-bottom: 4rem;
-    padding: 4rem 0;
+    //margin-bottom: 4rem;
+  margin-top: 2rem;
+
+  .row {
+
+    h3 {
+      margin-bottom: 2rem;
+      padding-left: 1.25rem;
+    }
+  }
   
   img {
     display: block;
@@ -259,7 +271,7 @@ strong {
   transition: width 1s ease-out, visibility 1s linear;
 
   .columns {
-    height: 72px;
+    height: 70px;
 
     &:last-of-type {
       background: rgba(0, 0, 0, .1);
@@ -275,10 +287,14 @@ strong {
     }
 
   }
+  
+  li {
+    padding: 0 1.75em;
+  }
   a {
     color: rgba(255, 255, 255, 1);
     font-size: .8rem;
-    padding: 1.75em;
+    padding: 1.75em 0;
 
     &[href^="https"] {
       display: inline-block;
@@ -399,6 +415,10 @@ ul.right {
 //}
 .nav-main {
   padding-top: 1.5em;
+
+  .active {
+    border-bottom: 5px solid rgba(255,255,255,.75);
+  }
 }
 .local {
   background: url("../img/FABC-text.png") no-repeat 0 90%;
@@ -484,6 +504,11 @@ ul.right {
   //border-top: 1px solid rgba(0,0,0,.05);
   padding-top: 0;
   //padding: 3rem;
+
+  p {
+    font-size: 1rem;
+    line-height: 2rem;
+  }
 }
 .banner {
 
@@ -499,7 +524,7 @@ ul.right {
     }
   }
   .subpage & {
-    height: 200px;
+    height: 250px;
 
     &:hover {
 
@@ -565,7 +590,7 @@ ul.right {
       background: rgba(255,255,255,1);
       //box-shadow: 0 0 18px rgba(0,0,0,.75);
       color: $color-headings;
-      margin-top: 80px;
+      margin-top: 135px;
       padding-top: 25px;
     }
   }

@@ -9235,6 +9235,9 @@ strong {
   padding-left: 1.25rem !important;
   padding-right: 1.25rem !important;
 }
+.column.left, .columns.left {
+  clear: left;
+}
 .column h2 + img, .columns h2 + img {
   margin-bottom: 2rem;
 }
@@ -9273,8 +9276,11 @@ strong {
 }
 
 .intro {
-  margin-bottom: 4rem;
-  padding: 4rem 0;
+  margin-top: 2rem;
+}
+.intro .row h3 {
+  margin-bottom: 2rem;
+  padding-left: 1.25rem;
 }
 .intro img {
   display: block;
@@ -9340,15 +9346,18 @@ strong {
   transition: width 1s ease-out, visibility 1s linear;
 }
 .nav-bar-main .columns {
-  height: 72px;
+  height: 70px;
 }
 .nav-bar-main .columns:last-of-type {
   background: rgba(0, 0, 0, 0.1);
 }
+.nav-bar-main li {
+  padding: 0 1.75em;
+}
 .nav-bar-main a {
   color: white;
   font-size: .8rem;
-  padding: 1.75em;
+  padding: 1.75em 0;
 }
 .nav-bar-main a[href^="https"] {
   display: inline-block;
@@ -9415,6 +9424,9 @@ ul.right:hover li a:hover {
 
 .nav-main {
   padding-top: 1.5em;
+}
+.nav-main .active {
+  border-bottom: 5px solid rgba(255, 255, 255, 0.75);
 }
 
 .local {
@@ -9491,6 +9503,10 @@ ul.right:hover li a:hover {
 .modal-inner-wrap {
   padding-top: 0;
 }
+.modal-inner-wrap p {
+  font-size: 1rem;
+  line-height: 2rem;
+}
 
 .banner:hover .overlay {
   background: rgba(0, 0, 0, 0.65);
@@ -9501,7 +9517,7 @@ ul.right:hover li a:hover {
   transition: all 1s ease-in-out;
 }
 .subpage .banner {
-  height: 200px;
+  height: 250px;
 }
 .subpage .banner:hover .overlay {
   background: none;
@@ -9542,7 +9558,7 @@ ul.right:hover li a:hover {
 .subpage .overlay .overlay-content h2 {
   background: white;
   color: #344B56;
-  margin-top: 80px;
+  margin-top: 135px;
   padding-top: 25px;
 }
 .overlay h1, .overlay h2, .overlay h3, .overlay p {
@@ -9943,6 +9959,12 @@ Slick Slider
   width: 100%;
 }
 
+.og-grid:hover a {
+  opacity: .65;
+}
+.og-grid:hover a:hover {
+  opacity: 1;
+}
 .og-grid li {
   float: left;
   margin: 0;
@@ -9953,6 +9975,9 @@ Slick Slider
   display: block;
   margin: 0 auto;
   max-width: 250px;
+}
+.og-grid li a:hover {
+  opacity: 1;
 }
 .og-grid li:first-of-type {
   display: block;
