@@ -9951,6 +9951,21 @@ Slick Slider
   color: black;
 }
 
+/*==========================
+
+          preloader
+
+===========================*/
+.loader {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  background: url("../img/page-loader.gif") 50% 50% no-repeat #f9f9f9;
+}
+
 .og-grid {
   list-style: none;
   padding: 20px 0;
