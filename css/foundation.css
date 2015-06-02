@@ -9370,7 +9370,7 @@ strong {
 .nav-bar-main a {
   color: white;
   font-size: .8rem;
-  padding: 1.5rem 0 1.5rem;
+  padding: 1.5em 0 1.85em;
 }
 .nav-bar-main a[href^="https"] {
   display: inline-block;
@@ -9439,7 +9439,7 @@ ul.right:hover li a:hover {
   padding-top: 1.5em;
 }
 .nav-main .active {
-  border-bottom: 2px solid #D97B29;
+  border-bottom: 3px solid #D97B29;
 }
 
 .local {
