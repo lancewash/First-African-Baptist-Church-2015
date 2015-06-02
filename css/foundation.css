@@ -9150,15 +9150,20 @@ body {
 }
 
 h1, h2, h3, h4, h5, img, p, a, ::before {
-  -webkit-transition: all 0.5s;
-  -moz-transition: all 0.5s;
-  -ms-transition: all 0.5s;
-  -o-transition: all 0.5s;
-  transition: all 0.5s;
+  -webkit-transition: all 0.35s;
+  -moz-transition: all 0.35s;
+  -ms-transition: all 0.35s;
+  -o-transition: all 0.35s;
+  transition: all 0.35s;
 }
 
-h1, h2, h3, h4, h5 {
+.content-row h1,
+.content-row h2,
+.content-row h3,
+.content-row h4,
+.content-row h5 {
   color: #344B56;
+  margin: 2rem 0 1rem;
 }
 
 h2 {
@@ -9275,12 +9280,20 @@ strong {
   left: 175px;
 }
 
-.intro {
-  margin-top: 2rem;
-}
 .intro .row h3 {
-  margin-bottom: 2rem;
-  padding-left: 1.25rem;
+  font-size: 1.25rem;
+  text-align: center;
+}
+.intro .ministry-block {
+  padding-top: 1rem;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.intro .ministry-block:hover {
+  background: rgba(0, 0, 0, 0.025);
 }
 .intro img {
   display: block;
@@ -9290,17 +9303,17 @@ strong {
   list-style-type: none;
 }
 .intro .sidebar-nav ul li:first-child {
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-top: 1px solid rgba(0, 0, 0, 0.025);
 }
 .intro .sidebar-nav ul a {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.025);
   color: #D97B29;
   display: block;
   font-size: .8rem;
   padding: .5rem 1rem;
 }
 .intro .sidebar-nav ul a:hover {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+  border-color: rgba(0, 0, 0, 0.05);
   color: rgba(0, 0, 0, 0.5);
   padding-left: 1.1rem;
 }
@@ -9357,7 +9370,7 @@ strong {
 .nav-bar-main a {
   color: white;
   font-size: .8rem;
-  padding: 1.75em 0;
+  padding: 1.5rem 0 1.5rem;
 }
 .nav-bar-main a[href^="https"] {
   display: inline-block;
@@ -9426,7 +9439,7 @@ ul.right:hover li a:hover {
   padding-top: 1.5em;
 }
 .nav-main .active {
-  border-bottom: 5px solid rgba(255, 255, 255, 0.75);
+  border-bottom: 2px solid #D97B29;
 }
 
 .local {
@@ -9481,7 +9494,7 @@ ul.right:hover li a:hover {
   min-height: 1000px;
 }
 .reveal-modal h2 {
-  font-size: 2.25rem;
+  font-size: 1.5rem;
   padding-top: 2rem;
 }
 .reveal-modal.calendar {
@@ -9974,10 +9987,10 @@ Slick Slider
   width: 100%;
 }
 
-.og-grid:hover a {
+.og-grid:hover a img {
   opacity: .65;
 }
-.og-grid:hover a:hover {
+.og-grid:hover a img:hover {
   opacity: 1;
 }
 .og-grid li {
