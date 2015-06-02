@@ -1,18 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1245c807-bc5c-450f-9f4c-05f8ba0898ab" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/history.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/welcome.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/foundation/components/_mystyles.css" afterPath="$PROJECT_DIR$/css/foundation/components/_mystyles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/_mystyles.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/_mystyles.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/_thumb-grid.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/_thumb-grid.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/foundation.css" afterPath="$PROJECT_DIR$/css/foundation.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leadership.html" afterPath="$PROJECT_DIR$/leadership.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ministries.html" afterPath="$PROJECT_DIR$/ministries.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prepros.cfg" afterPath="$PROJECT_DIR$/prepros.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/subpage-one.html" afterPath="$PROJECT_DIR$/subpage-one.html" />
+    <list default="true" id="1245c807-bc5c-450f-9f4c-05f8ba0898ab" name="Default" comment="Updated uncomitted files">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/img/relatedposts/ArticleIntroEffects.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/fonts/blokk/BLOKKRegular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/fonts/blokk/BLOKKRegular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/fonts/blokk/BLOKKRegular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/img/relatedposts/HeaderEffects.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/img/browser.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_FW/circle thumbs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/CreativeLoadingEffects/fonts/codropsicons/codropsicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/fonts/codropsicons/codropsicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/CreativeLoadingEffects/fonts/codropsicons/codropsicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/fonts/codropsicons/codropsicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/CreativeLoadingEffects/fonts/codropsicons/codropsicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/fonts/codropsicons/codropsicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/fabc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/fonts/feather/feather.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/fonts/feather/feather.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/fonts/feather/feather.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/min-holloman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/min-jones.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/min-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/min-wilson.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/ministries-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/page-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/rev-dent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/rev-hudson.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/rev-jones.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/rev-williams.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/fonts/blokk/BLOKKRegular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/CreativeLoadingEffects/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/CreativeLoadingEffects/js/classie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/js/classie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/CreativeLoadingEffects/fonts/codropsicons/codropsicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/fonts/codropsicons/codropsicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/CreativeLoadingEffects/css/component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/img/credits.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/CreativeLoadingEffects/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/css/effect1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/css/effect2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/fonts/feather/feather.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/CreativeLoadingEffects/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bu-05182015/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/index2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/CreativeLoadingEffects/fonts/codropsicons/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/fonts/codropsicons/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/CreativeLoadingEffects/js/modernizr.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/js/modernizr.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/CreativeLoadingEffects/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ASSETS/PagePreloadingEffect/js/pathLoader.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="First-African-Baptist-Church-2015.iws" />
@@ -121,8 +166,8 @@
       <file leaf-file-name="_thumb-grid.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scss/foundation/components/_thumb-grid.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6556474">
-              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.3761062">
+              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -279,60 +324,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="First-African-Baptist-Church-2015" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="First-African-Baptist-Church-2015" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="First-African-Baptist-Church-2015" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="First-African-Baptist-Church-2015" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foundation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="First-African-Baptist-Church-2015" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="First-African-Baptist-Church-2015" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foundation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -450,7 +441,13 @@
       <option name="project" value="LOCAL" />
       <updated>1433179047829</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Welcome page">
+      <created>1433278672707</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1433278672707</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -458,10 +455,10 @@
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.53321034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.53294575" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19186047" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45736435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25888324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22439758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -497,7 +494,9 @@
     <MESSAGE value="leadership page v.1" />
     <MESSAGE value="ministries page v.1" />
     <MESSAGE value="Added preloader" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added preloader" />
+    <MESSAGE value="Added Welcome page" />
+    <MESSAGE value="Updated uncomitted files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated uncomitted files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -882,8 +881,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/foundation/components/_thumb-grid.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6556474">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.3761062">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
           <folding />
         </state>
       </provider>
