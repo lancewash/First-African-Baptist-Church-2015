@@ -537,26 +537,19 @@ ul.right {
 }
 .banner {
 
-  &:hover {
 
-    .overlay {
-      background: rgba(0,0,0,.65);
-      -webkit-transition: all 1s ease-in-out;
-      -moz-transition: all 1s ease-in-out;
-      -ms-transition: all 1s ease-in-out;
-      -o-transition: all 1s ease-in-out;
-      transition: all 1s ease-in-out;
-    }
+
+  .overlay {
+    background: rgba(0,0,0,.5);
+    -webkit-transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -ms-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    transition: all 1s ease-out;
   }
+
   .subpage & {
     height: 250px;
-
-    &:hover {
-
-      .overlay {
-        background: none;
-      }
-    }
   }
 }
 .banner-wrap {
