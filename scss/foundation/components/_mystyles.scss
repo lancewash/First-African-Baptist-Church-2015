@@ -218,8 +218,13 @@ strong {
     margin: 0 auto 2rem;
   }
   .sidebar-nav {
+    
+    h2, h3, h4 {
+      margin: 0 0 1rem;
+    }
     ul {
       list-style-type: none;
+      margin: 0 0 3rem;
 
       li {
         &:first-child {
@@ -233,7 +238,7 @@ strong {
         color: $color-highlight;
         display: block;
         font-size: .8rem;
-        padding: .5rem 1rem;
+        padding: .5rem 1rem .5rem 0;
 
         &.active {
           color: rgba(0,0,0,.5);
@@ -241,7 +246,7 @@ strong {
 
           &:hover {
             cursor: default;
-            padding-left: 1rem;
+            //padding-left: .25rem;
           }
         }
 
@@ -250,7 +255,7 @@ strong {
           border-color: rgba(0, 0, 0, .05);
           //border-left: 1px dotted lighten($color-highlight, 20%);
           color: rgba(0, 0, 0, .5);
-          padding-left: 1.1rem;
+          padding-left: .25rem;
         }
       }
     }
@@ -264,9 +269,9 @@ strong {
       //border-right: 1px solid #ddd;
     }
   }
-.sidebar-nav {
-  border-left: 1px solid rgba(0,0,0,.01);
-}
+//.sidebar-nav {
+//  border-left: 1px solid rgba(0,0,0,.01);
+//}
 .nav-top, .local {
   padding-top: 1rem;
 }
@@ -345,16 +350,18 @@ strong {
 //  }
 //}
 .map {
-  background: url("../img/bg-40-tranparent.png"), url("../img/banner-img/fabc-church.jpg");
+  background: url("../img/transparent-overlay-85.png"), url("../img/banner-img/fabc-church.jpg");
   background-repeat: repeat, no-repeat;
   display: block;
   max-height: 500px;
   overflow: hidden;
+  border-bottom: 1px solid rgba(255,255,255,.25);
   padding: 0;
   position: relative;
 
-  h3, p, a {
-  color: rgba(255,255,255,1);
+  h3, p, a, i {
+    text-shadow: 0 2px 4px rgba(0,0,0,.5);
+    color: rgba(255,255,255,1);
     -webkit-transition: all 1s;
     -moz-transition: all 1s;
     -ms-transition: all 1s;
@@ -387,7 +394,7 @@ strong {
     opacity: 0;
   }
   &:hover p {
-    opacity: .2;
+    opacity: 0;
   }
   &:hover p>a {
     font-size: 0;
@@ -395,7 +402,9 @@ strong {
     opacity: 0;
     //width: 50%;
   }
-
+  &:hover i {
+    opacity: 0;
+  }
   .columns {
     max-height: 450px;
     padding: 0 !important;
@@ -403,7 +412,7 @@ strong {
     iframe {
       margin-left: -3px;
       margin-top: -3px;
-      opacity: 0;
+      opacity: .1;
       position: absolute;
       left: 0;
       top: 0;
@@ -421,6 +430,12 @@ strong {
   }
 
 
+}
+.fi-large {
+  font-size: 3rem;
+}
+.fi-white {
+  color: rgba(255,255,255,1);
 }
 .stuck {
   background: #3C0C08;

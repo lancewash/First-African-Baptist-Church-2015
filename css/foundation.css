@@ -1524,6 +1524,11 @@ button, .button {
   text-transform: uppercase;
 }
 
+.button-full {
+  padding: 1rem 0;
+  width: 100%;
+}
+
 button:hover, button:focus, .button:hover, .button:focus {
   background-color: #a82d11;
 }
@@ -9299,8 +9304,12 @@ strong {
   display: block;
   margin: 0 auto 2rem;
 }
+.intro .sidebar-nav h2, .intro .sidebar-nav h3, .intro .sidebar-nav h4 {
+  margin: 0 0 1rem;
+}
 .intro .sidebar-nav ul {
   list-style-type: none;
+  margin: 0 0 3rem;
 }
 .intro .sidebar-nav ul li:first-child {
   border-top: 1px solid rgba(0, 0, 0, 0.025);
@@ -9310,7 +9319,7 @@ strong {
   color: #D97B29;
   display: block;
   font-size: .8rem;
-  padding: .5rem 1rem;
+  padding: .5rem 1rem .5rem 0;
 }
 .intro .sidebar-nav ul a.active {
   color: rgba(0, 0, 0, 0.5);
@@ -9318,22 +9327,17 @@ strong {
 }
 .intro .sidebar-nav ul a.active:hover {
   cursor: default;
-  padding-left: 1rem;
 }
 .intro .sidebar-nav ul a:hover {
   border-color: rgba(0, 0, 0, 0.05);
   color: rgba(0, 0, 0, 0.5);
-  padding-left: 1.1rem;
+  padding-left: .25rem;
 }
 .intro blockquote {
   color: black;
   font-family: serif;
   font-size: 1rem;
   font-style: italic;
-}
-
-.sidebar-nav {
-  border-left: 1px solid rgba(0, 0, 0, 0.01);
 }
 
 .nav-top, .local {
@@ -9390,15 +9394,17 @@ strong {
 }
 
 .map {
-  background: url("../img/bg-40-tranparent.png"), url("../img/banner-img/fabc-church.jpg");
+  background: url("../img/transparent-overlay-85.png"), url("../img/banner-img/fabc-church.jpg");
   background-repeat: repeat, no-repeat;
   display: block;
   max-height: 500px;
   overflow: hidden;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.25);
   padding: 0;
   position: relative;
 }
-.map h3, .map p, .map a {
+.map h3, .map p, .map a, .map i {
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
   color: white;
   -webkit-transition: all 1s;
   -moz-transition: all 1s;
@@ -9429,11 +9435,14 @@ strong {
   opacity: 0;
 }
 .map:hover p {
-  opacity: .2;
+  opacity: 0;
 }
 .map:hover p > a {
   font-size: 0;
   margin-bottom: -14rem;
+  opacity: 0;
+}
+.map:hover i {
   opacity: 0;
 }
 .map .columns {
@@ -9443,7 +9452,7 @@ strong {
 .map .columns iframe {
   margin-left: -3px;
   margin-top: -3px;
-  opacity: 0;
+  opacity: .1;
   position: absolute;
   left: 0;
   top: 0;
@@ -9456,6 +9465,14 @@ strong {
 }
 .map .columns iframe:hover {
   opacity: .8;
+}
+
+.fi-large {
+  font-size: 3rem;
+}
+
+.fi-white {
+  color: white;
 }
 
 .stuck {
