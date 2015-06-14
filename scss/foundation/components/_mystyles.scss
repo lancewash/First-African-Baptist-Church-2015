@@ -269,6 +269,32 @@ strong {
       //border-right: 1px solid #ddd;
     }
   }
+
+.intro-block {
+  border-bottom: 1px solid rgba(0, 0, 0, .05);
+  margin-bottom: 4rem;
+  padding-bottom: 2rem;
+  position: relative;
+
+  .columns {
+    padding: 1rem 0;
+  }
+}
+
+.back-to-top {
+  //border-bottom: 1px solid rgba(0,0,0,.025);
+  color: rgba(0, 0, 0, .25);
+  font-size: .75rem;
+  padding: .25rem 0;
+  position: absolute;
+  bottom: 1rem;
+  right: 0;
+  
+  &:hover {
+    //border-bottom: 1px solid rgba(0, 0, 0, .15);
+    color: rgba(0, 0, 0, .5);
+  }
+}
 //.sidebar-nav {
 //  border-left: 1px solid rgba(0,0,0,.01);
 //}
@@ -727,7 +753,7 @@ Footer Styles
     color: rgba(255,255,255,1);
   }
 }
-.footer-nav {
+.stacked-nav {
 
   ul {
     border-right: 1px solid rgba(255,255,255,.1);
@@ -745,10 +771,20 @@ Footer Styles
       }
     }
   }
-
-
 }
 
+.inverted .stacked-nav:last-child ul {
+  border: none;
+}
+
+.inverted-nav {
+  padding: 2rem 0 1rem;
+  margin: 2rem 0;
+  
+  .columns {
+    min-height: 100px;
+  }
+}
 // .tp-banner {
 //   max-height: 400px !important;
 //   //top: -100px;
@@ -880,7 +916,7 @@ Randon background
 //  //   transition: all 0.3s;
 //  //   &:hover {
 //  //     margin-top: 18px;
-//  //   } 
+//  //   }
 //  // }
 //  header nav {
 //   display: inline-block;
@@ -918,7 +954,7 @@ Randon background
 //         padding: 2em 2.15em 1.75em;
 //         // color: #333;
 //       }
-//       } 
+//       }
 //     }
 //     header.smaller a#logo {
 //       background: url(../img/fabc-joy-logo-small.png) no-repeat;
@@ -933,7 +969,7 @@ Randon background
 
 //     }
 //     header.smaller nav a {
-//       // line-height: 75px; 
+//       // line-height: 75px;
 //     }
 //     .unit-66 li a {
 
