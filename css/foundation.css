@@ -9189,11 +9189,11 @@ h2::before {
 
 strong {
   color: #BF3313;
+  text-transform: uppercase;
 }
 
 .content-row {
   background: white;
-  border-bottom: 1px solid rgba(52, 75, 86, 0.1);
   border-spacing: 4rem 0;
   display: table;
   margin: 0 auto;
@@ -9203,6 +9203,16 @@ strong {
   padding: 4rem 0;
   position: relative;
   width: 100%;
+}
+.content-row:before {
+  border-bottom: 1px solid #efefef;
+  bottom: 0;
+  content: "";
+  display: block;
+  height: 1px;
+  left: 30%;
+  position: absolute;
+  width: 40%;
 }
 
 .content-row-wrap {
@@ -9350,15 +9360,17 @@ strong {
   padding: 1rem 0;
 }
 
-.back-to-top {
+a.back-to-top {
   color: rgba(0, 0, 0, 0.25);
   font-size: .75rem;
   padding: .25rem 0;
   position: absolute;
+  text-align: center;
   bottom: 1rem;
-  right: 0;
+  left: 35%;
+  width: 30%;
 }
-.back-to-top:hover {
+a.back-to-top:visited, a.back-to-top:hover, a.back-to-top:active {
   color: rgba(0, 0, 0, 0.5);
 }
 
@@ -9413,6 +9425,12 @@ strong {
 }
 .nav-bar-main a[href^="https"]:hover {
   opacity: 1;
+}
+
+hr {
+  border: 1px solid #efefef;
+  margin: 3rem auto;
+  max-width: 50px;
 }
 
 .map {
@@ -9627,6 +9645,10 @@ ul.right:hover li a:hover {
   line-height: 2rem;
 }
 
+.banner {
+  max-height: 350px;
+  overflow: hidden;
+}
 .banner .overlay {
   background: rgba(0, 0, 0, 0.5);
   -webkit-transition: all 1s ease-out;
@@ -9719,16 +9741,29 @@ Footer Styles
   color: white;
 }
 
+.stacked-nav.centered ul {
+  border: none;
+}
+.stacked-nav.centered ul a {
+  padding: .5rem 0;
+}
+
 .inverted .stacked-nav:last-child ul {
   border: none;
 }
 
 .inverted-nav {
   padding: 2rem 0 1rem;
+  position: relative;
   margin: 2rem 0;
 }
 .inverted-nav .columns {
   min-height: 100px;
+}
+.inverted-nav i {
+  position: absolute;
+  right: 1.5rem;
+  bottom: 1rem;
 }
 
 /*
