@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1245c807-bc5c-450f-9f4c-05f8ba0898ab" name="Default" comment="added subpage template">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpage.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/foundation/components/_mystyles.css" afterPath="$PROJECT_DIR$/css/foundation/components/_mystyles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/_mystyles.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/_mystyles.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/foundation.css" afterPath="$PROJECT_DIR$/css/foundation.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ministries.html" afterPath="$PROJECT_DIR$/ministries.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prepros.cfg" afterPath="$PROJECT_DIR$/prepros.cfg" />
+    <list default="true" id="1245c807-bc5c-450f-9f4c-05f8ba0898ab" name="Default" comment="merge">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/subpage.html" afterPath="$PROJECT_DIR$/subpage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/welcome.html" afterPath="$PROJECT_DIR$/welcome.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="First-African-Baptist-Church-2015.iws" />
@@ -63,7 +58,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.269231">
+            <state vertical-scroll-proportion="0.0">
               <caret line="219" column="70" selection-start-line="219" selection-start-column="6" selection-end-line="219" selection-end-column="70" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -82,21 +77,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="welcome.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="welcome.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/welcome.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="131" column="57" selection-start-line="131" selection-start-column="57" selection-end-line="131" selection-end-column="57" />
+            <state vertical-scroll-proportion="0.36956522">
+              <caret line="128" column="28" selection-start-line="128" selection-start-column="28" selection-end-line="128" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="subpage.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="subpage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/subpage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0">
-              <caret line="284" column="59" selection-start-line="284" selection-start-column="59" selection-end-line="284" selection-end-column="59" />
+            <state vertical-scroll-proportion="-18.0">
+              <caret line="130" column="18" selection-start-line="130" selection-start-column="18" selection-end-line="130" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -105,7 +100,7 @@
       <file leaf-file-name="history.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/history.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="7" column="78" selection-start-line="7" selection-start-column="78" selection-end-line="7" selection-end-column="78" />
               <folding />
             </state>
@@ -115,7 +110,7 @@
       <file leaf-file-name="_mystyles.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/foundation/components/_mystyles.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.3636365">
+            <state vertical-scroll-proportion="0.0">
               <caret line="293" column="50" selection-start-line="293" selection-start-column="6" selection-end-line="293" selection-end-column="50" />
               <folding />
             </state>
@@ -145,7 +140,7 @@
       <file leaf-file-name="ministries.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ministries.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.846154">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="348" column="57" selection-start-line="348" selection-start-column="48" selection-end-line="348" selection-end-column="59" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#7;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -157,7 +152,7 @@
       <file leaf-file-name="leadership.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leadership.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="7" column="76" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -209,11 +204,11 @@
         <option value="$PROJECT_DIR$/history.html" />
         <option value="$PROJECT_DIR$/leadership.html" />
         <option value="$PROJECT_DIR$/scss/foundation/components/_buttons.scss" />
-        <option value="$PROJECT_DIR$/welcome.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/ministries.html" />
         <option value="$PROJECT_DIR$/scss/foundation/components/_mystyles.scss" />
         <option value="$PROJECT_DIR$/subpage.html" />
+        <option value="$PROJECT_DIR$/welcome.html" />
       </list>
     </option>
   </component>
@@ -225,8 +220,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1366" />
-    <option name="height" value="674" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="984" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -251,9 +248,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Problems" />
-      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -274,7 +269,9 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Problems" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -295,407 +292,6 @@
       <recent name="C:\Users\Lance\Documents\GitHub\First-African-Baptist-Church-2015\scss\foundation\components" />
     </key>
   </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/.fontcustom-data</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/foundation-icons.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/foundation-icons.eot</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/foundation-icons.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/foundation-icons.ttf</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/foundation-icons.woff</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/preview.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-address-book.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-alert.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-align-center.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-align-justify.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-align-left.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-align-right.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-anchor.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-annotate.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-archive.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-arrow-down.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-arrow-left.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-arrow-right.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-arrow-up.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-arrows-compress.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-arrows-expand.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-arrows-in.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-arrows-out.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-asl.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-asterisk.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-at-sign.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-background-color.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-battery-empty.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-battery-full.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-battery-half.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-bitcoin-circle.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-bitcoin.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-blind.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-bluetooth.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-bold.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-book-bookmark.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-book.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-bookmark.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-braille.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-burst-new.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-burst-sale.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-burst.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-calendar.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-camera.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-check.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-checkbox.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-clipboard-notes.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-clipboard-pencil.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-clipboard.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-clock.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-closed-caption.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-cloud.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-comment-minus.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-comment-quotes.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-comment-video.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-comment.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-comments.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-compass.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-contrast.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-credit-card.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-crop.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-crown.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-css3.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-database.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-die-five.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-die-four.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-die-one.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-die-six.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-die-three.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-die-two.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-dislike.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-dollar-bill.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-dollar.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-download.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-eject.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-elevator.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-euro.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-eye.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-fast-forward.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-female-symbol.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-female.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-filter.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-first-aid.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-flag.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-folder-add.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-folder-lock.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-folder.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-foot.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-foundation.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-graph-bar.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-graph-horizontal.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-graph-pie.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-graph-trend.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-guide-dog.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-hearing-aid.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-heart.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-home.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-html5.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-indent-less.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-indent-more.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-info.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-italic.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-key.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-laptop.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-layout.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-lightbulb.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-like.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-link.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-list-bullet.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-list-number.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-list-thumbnails.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-list.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-lock.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-loop.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-magnifying-glass.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-mail.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-male-female.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-male-symbol.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-male.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-map.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-marker.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-megaphone.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-microphone.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-minus-circle.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-minus.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-mobile-signal.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-mobile.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-monitor.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-mountains.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-music.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-next.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-no-dogs.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-no-smoking.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-page-add.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-page-copy.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-page-csv.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-page-delete.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-page-doc.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-page-edit.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-page-export-csv.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-page-export-doc.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-page-export-pdf.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-page-export.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-page-filled.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-page-multiple.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-page-pdf.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-page-remove.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-page-search.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-page.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-paint-bucket.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-paperclip.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-pause.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-paw.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-paypal.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-pencil.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-photo.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-play-circle.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-play-video.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-play.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-plus.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-pound.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-power.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-previous.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-price-tag.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-pricetag-multiple.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-print.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-prohibited.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-projection-screen.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-puzzle.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-quote.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-record.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-refresh.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-results-demographics.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-results.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-rewind-ten.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-rewind.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-rss.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-safety-cone.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-save.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-share.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-sheriff-badge.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-shield.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-shopping-bag.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-shopping-cart.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-shuffle.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-skull.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-500px.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-adobe.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-amazon.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-android.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-apple.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-behance.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-bing.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-blogger.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-delicious.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-designer-news.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-deviant-art.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-digg.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-dribbble.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-drive.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-dropbox.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-evernote.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-facebook.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-flickr.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-forrst.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-foursquare.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-game-center.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-github.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-google-plus.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-hacker-news.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-hi5.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-instagram.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-joomla.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-lastfm.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-linkedin.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-medium.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-myspace.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-orkut.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-path.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-picasa.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-pinterest.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-rdio.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-reddit.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-skillshare.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-skype.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-smashing-mag.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-snapchat.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-spotify.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-squidoo.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-stack-overflow.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-steam.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-stumbleupon.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-treehouse.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-tumblr.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-twitter.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-vimeo.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-windows.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-xbox.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-yahoo.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-yelp.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-youtube.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-zerply.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-social-zurb.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-sound.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-star.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-stop.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-strikethrough.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-subscript.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-superscript.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-tablet-landscape.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-tablet-portrait.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-target-two.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-target.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-telephone-accessible.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-telephone.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-text-color.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-thumbnails.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-ticket.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-torso-business.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-torso-female.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-torso.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-torsos-all-female.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-torsos-all.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-torsos-female-male.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-torsos-male-female.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-torsos.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-trash.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-trees.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-trophy.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-underline.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-universal-access.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-unlink.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-unlock.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-upload-cloud.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-upload.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-usb.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-video.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-volume-none.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-volume-strike.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-volume.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-web.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-wheelchair.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-widget.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-wrench.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-x-circle.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-x.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-yen.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-zoom-in.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/foundation-icons/svgs/fi-zoom-out.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/transparent-overlay-85.png</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/background/'Fantastic Four' Reboot_ First Official Look At The Thing Revealed! _ T-Lounge _.pdf</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
-  </component>
   <component name="RunManager" selected="Node.js.jquery.fadethis.min.js">
     <configuration default="false" name="jquery.fadethis.min.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="jquery.fadethis.min.js" working-dir="$PROJECT_DIR$/js">
       <method />
@@ -706,18 +302,18 @@
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
       <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
-      <setting name="configLocationType" value="CONFIG_FILE" />
-      <setting name="settingsFile" value="" />
-      <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="Chrome" />
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
@@ -873,16 +469,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="674" extended-state="0" />
+    <frame x="-8" y="-8" width="1696" height="984" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22289157" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22255729" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.53294575" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Compare Directories" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5320435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49031007" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4897219" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25888324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -893,6 +488,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Compare Directories" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.029069768" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -924,7 +520,8 @@
     <MESSAGE value="Map div container updated" />
     <MESSAGE value="Map div container updated2" />
     <MESSAGE value="added subpage template" />
-    <option name="LAST_COMMIT_MESSAGE" value="added subpage template" />
+    <MESSAGE value="merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1231,16 +828,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leadership.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="76" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/foundation/components/_buttons.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1259,7 +846,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.269231">
+        <state vertical-scroll-proportion="0.0">
           <caret line="219" column="70" selection-start-line="219" selection-start-column="6" selection-end-line="219" selection-end-column="70" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1269,23 +856,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/foundation/components/_mystyles.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.3636365">
-          <caret line="293" column="50" selection-start-line="293" selection-start-column="6" selection-end-line="293" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/welcome.html">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="131" column="57" selection-start-line="131" selection-start-column="57" selection-end-line="131" selection-end-column="57" />
+          <caret line="293" column="50" selection-start-line="293" selection-start-column="6" selection-end-line="293" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ministries.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.846154">
+        <state vertical-scroll-proportion="0.0">
           <caret line="348" column="57" selection-start-line="348" selection-start-column="48" selection-end-line="348" selection-end-column="59" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#7;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1293,10 +872,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/leadership.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="76" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/subpage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0">
-          <caret line="284" column="59" selection-start-line="284" selection-start-column="59" selection-end-line="284" selection-end-column="59" />
+        <state vertical-scroll-proportion="-18.0">
+          <caret line="130" column="18" selection-start-line="130" selection-start-column="18" selection-end-line="130" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/welcome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36956522">
+          <caret line="128" column="28" selection-start-line="128" selection-start-column="28" selection-end-line="128" selection-end-column="28" />
           <folding />
         </state>
       </provider>
