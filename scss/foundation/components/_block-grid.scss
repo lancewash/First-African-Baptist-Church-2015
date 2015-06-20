@@ -334,8 +334,24 @@
   // }
 
   .large-block-grid-4 > li {
+    border: 1px solid rgba(0,0,0,.0);
     list-style: none;
+    margin-left: -1px;
+    padding: 1.5rem;
     width: 25%;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+    
+    &:hover {
+      border: 1px solid rgba(0,0,0,.05);
+    }
+    
+    &:first-child {
+      margin-left: 0;
+    }
   }
   .large-block-grid-4 > li:nth-of-type(1n) {
     clear: none;

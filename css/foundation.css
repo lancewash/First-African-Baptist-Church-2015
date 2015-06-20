@@ -1486,8 +1486,22 @@ select {
 }
 @media only screen and (min-width: 64.0625em) {
   .large-block-grid-4 > li {
+    border: 1px solid transparent;
     list-style: none;
+    margin-left: -1px;
+    padding: 1.5rem;
     width: 25%;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+  }
+  .large-block-grid-4 > li:hover {
+    border: 1px solid rgba(0, 0, 0, 0.05);
+  }
+  .large-block-grid-4 > li:first-child {
+    margin-left: 0;
   }
 
   .large-block-grid-4 > li:nth-of-type(1n) {
@@ -9538,7 +9552,7 @@ hr {
 }
 
 ul.right:hover li a {
-  opacity: .4;
+  opacity: .55;
 }
 ul.right:hover li a:hover {
   opacity: 1;
@@ -9562,6 +9576,10 @@ ul.right:hover li a:hover {
 
 .local {
   background: url("../img/FABC-text.png") no-repeat 0 90%;
+}
+.local small {
+  display: inline-block;
+  font-size: 0px;
   text-indent: -99999999em;
 }
 

@@ -512,7 +512,7 @@ hr {
 ul.right {
 
   &:hover li a {
-    opacity: .4;
+    opacity: .55;
 
     &:hover {
       opacity: 1;
@@ -558,9 +558,11 @@ ul.right {
 }
 .local {
   background: url("../img/FABC-text.png") no-repeat 0 90%;
-  text-indent: -99999999em;
-  small {
 
+  small {
+    display: inline-block;
+    font-size: 0px;
+    text-indent: -99999999em;
   }
 }
 .logo {
