@@ -9326,7 +9326,7 @@ strong {
 }
 .intro img {
   display: block;
-  margin: 0 auto 2rem;
+  margin: 2rem auto;
 }
 .intro .sidebar-nav h2, .intro .sidebar-nav h3, .intro .sidebar-nav h4 {
   margin: 0 0 1rem;
