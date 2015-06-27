@@ -9209,7 +9209,6 @@ strong {
 .content-row {
   background: white;
   border-spacing: 4rem 0;
-  display: table;
   margin: 0 auto;
   max-width: 90rem;
   min-height: 400px;
