@@ -10,9 +10,9 @@ Error: Undefined variable: "$color-headings".
 27:   color: $color-headings;
 28:   margin: 2rem 0 1rem;
 29: }
-30: h2 {
-31:   margin-bottom: 1rem;
-32:   padding-bottom: 2rem;
+30: .content-row h1 {
+31:   font-size: 2rem;
+32:   margin: 0 auto 2rem;
 
 Backtrace:
 _mystyles.scss:27
@@ -62,4 +62,4 @@ c:/Program Files (x86)/Prepros/resources/app/ruby/loader.rb:15:in `<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$color-headings\".\A         on line 27 of _mystyles.scss\A \A 22: .content-row h1,\A 23: .content-row h2,\A 24: .content-row h3,\A 25: .content-row h4,\A 26: .content-row h5 {\A 27:   color: $color-headings;\A 28:   margin: 2rem 0 1rem;\A 29: }\A 30: h2 {\A 31:   margin-bottom: 1rem;\A 32:   padding-bottom: 2rem;"; }
+  content: "Error: Undefined variable: \"$color-headings\".\A         on line 27 of _mystyles.scss\A \A 22: .content-row h1,\A 23: .content-row h2,\A 24: .content-row h3,\A 25: .content-row h4,\A 26: .content-row h5 {\A 27:   color: $color-headings;\A 28:   margin: 2rem 0 1rem;\A 29: }\A 30: .content-row h1 {\A 31:   font-size: 2rem;\A 32:   margin: 0 auto 2rem;"; }
