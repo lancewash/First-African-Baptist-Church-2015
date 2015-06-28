@@ -9195,7 +9195,7 @@ h1, h2, h3, h4, h5, img, p, a, ::before {
 }
 .content-row h1::before {
   border-bottom: 3px solid #D97B29;
-  bottom: 1rem;
+  bottom: 0;
   content: "";
   display: block;
   height: 2px;
@@ -9228,6 +9228,7 @@ strong {
 .content-row {
   background: white;
   border-spacing: 4rem 0;
+  display: table;
   margin: 0 auto;
   max-width: 90rem;
   min-height: 400px;

@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, img, p, a, ::before {
 
   &::before {
     border-bottom: 3px solid $color-highlight;
-    bottom: 1rem;
+    bottom: 0;
     content: "";
     display: block;
     height: 2px;
@@ -81,7 +81,7 @@ strong {
   //border-bottom: 1px solid rgba(52, 75, 86, 0.1);
   // border-collapse: separate;
   border-spacing: 4rem 0;
-  //display: table;
+  display: table;
   margin: 0 auto;
   max-width: 90rem;
   min-height: 400px;
