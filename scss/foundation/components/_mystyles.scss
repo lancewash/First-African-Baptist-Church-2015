@@ -96,16 +96,16 @@ strong {
   position: relative;
   width: 100%;
 
-  &:before {
-    border-bottom: 1px solid #efefef;
+ /* &:before {
+    border-bottom: 3px solid #efefef;
     bottom: 0;
     content: "";
     display: block;
     height: 1px;
-    left: 30%;
+    left: 45%;
     position: absolute;
-    width: 40%;
-  }
+    width: 10%;
+  }*/
 }
 .content-row-wrap {
   background: rgba(255,255,255,1);
@@ -201,7 +201,7 @@ strong {
 .centered {
   text-align: center;
 
-  blockquote p {
+  blockquote {
     border: none;
     color: darken($color-headings, 10%);
     margin: 0 auto 1rem;
