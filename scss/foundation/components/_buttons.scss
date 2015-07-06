@@ -15,7 +15,7 @@ button, .button {
   letter-spacing: .1rem;
   line-height: normal;
   margin: 0;
-  width: 220px;
+  width: 240px;
   position: relative;
   text-align: center;
   text-decoration: none;
@@ -237,7 +237,7 @@ button::-moz-focus-inner {
 
   .button-is-hidden {
   bottom: -2.75rem;
-  left: 25%;
+  left: 20%;
   position: absolute;
   transition: all .5s ease;
   -moz-transition: all .5s ease;
