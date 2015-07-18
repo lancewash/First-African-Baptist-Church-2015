@@ -46,6 +46,12 @@ h1, h2, h3, h4, h5, img, p, a, ::before {
     width: 50px;
   }
 }
+h1 {
+
+  span {
+    font-size: 1.25rem;
+  }
+}
 h2 {
   margin-bottom: 1rem;
   padding-bottom: 2rem;
@@ -90,16 +96,16 @@ strong {
   position: relative;
   width: 100%;
 
-  &:before {
-    border-bottom: 1px solid #efefef;
+ /* &:before {
+    border-bottom: 3px solid #efefef;
     bottom: 0;
     content: "";
     display: block;
     height: 1px;
-    left: 30%;
+    left: 45%;
     position: absolute;
-    width: 40%;
-  }
+    width: 10%;
+  }*/
 }
 .content-row-wrap {
   background: rgba(255,255,255,1);
@@ -127,7 +133,7 @@ strong {
 .inverted {
   background: rgba(52, 75, 86, 1);
   color: rgba(255,255,255,.8);
-
+  padding-top: 2rem;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   -ms-transition: all 0.5s;
@@ -198,7 +204,7 @@ strong {
   blockquote {
     border: none;
     color: darken($color-headings, 10%);
-    margin: 1rem auto;
+    margin: 0 auto 1rem;
     max-width: 350px;
   }
 
@@ -291,7 +297,7 @@ strong {
       }
     }
   }
-    blockquote {
+    blockquote p {
       color: rgba(0,0,0,1);
       font-family: serif;
       font-size: 1rem;
@@ -673,8 +679,10 @@ ul.right {
   border-radius: 0;
   box-shadow: none;
   padding: 7rem 6rem;
-  //top: 0 !important;
-  //margin-top: 65px !important;
+
+  .close-reveal-modal {
+
+  }
 
   .row {
     height: 100%;
@@ -700,6 +708,9 @@ ul.right {
   margin: .5em .5em 0 0;
   opacity: .9;
   width: 40px;
+  font-size: 0 !important;
+  top: 2rem !important;
+  right: 2rem !important;
 
   &:hover {
     opacity: 1;
@@ -714,6 +725,9 @@ ul.right {
     font-size: 1rem;
     line-height: 2rem;
   }
+}
+.reveal-modal .close-reveal-modal {
+  
 }
 .banner {
   max-height: 350px;
@@ -798,6 +812,7 @@ ul.right {
     color: rgba(255,255,255,1);
     // color: #333;
   }
+
   h2 {
 
     &:before {
@@ -865,6 +880,7 @@ Footer Styles
 }
 .inverted .stacked-nav:last-child ul {
   border: none;
+  //margin-top: 4rem;
 }
 
 .inverted-nav {

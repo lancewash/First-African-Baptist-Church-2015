@@ -154,11 +154,11 @@ $z-index-base: 1005;
 @mixin reveal-close($color:$reveal-close-color) {
   color: $color;
   cursor: $cursor-pointer-value;
-  font-size: $reveal-close-font-size;
+  font-size: 0;
   font-weight: $reveal-close-weight;
   line-height: 1;
   position: absolute;
-  top: $reveal-close-top;
+  top: 2rem;
   #{$opposite-direction}: $reveal-close-side;
 }
 
