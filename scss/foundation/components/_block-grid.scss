@@ -10,9 +10,9 @@
   -o-transition: all 0.5s;
   transition: all 0.5s;
 
-  &:hover {
+  /*&:hover {
     border: 1px solid rgba(52, 75, 86, .05);
-  }
+  }*/
 }
 [class*="block-grid-"]:before, [class*="block-grid-"]:after {
   content: " ";
@@ -345,9 +345,9 @@
     -o-transition: all 1s;
     transition: all 1s;
     
-    &:hover {
+    /*&:hover {
       border: 1px solid rgba(0,0,0,.05);
-    }
+    }*/
     
     &:first-child {
       margin-left: 0;
