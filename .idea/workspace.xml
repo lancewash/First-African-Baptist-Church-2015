@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1245c807-bc5c-450f-9f4c-05f8ba0898ab" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fabc-credit-union.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/pastor-dent.png" afterPath="$PROJECT_DIR$/img/pastor-dent.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/_mystyles.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/_mystyles.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/foundation.css" afterPath="$PROJECT_DIR$/css/foundation.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ministries.html" afterPath="$PROJECT_DIR$/ministries.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prepros.cfg" afterPath="$PROJECT_DIR$/prepros.cfg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="First-African-Baptist-Church-2015.iws" />
@@ -58,8 +62,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.56958765">
-              <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+            <state vertical-scroll-proportion="1.655914">
+              <caret line="61" column="36" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -70,8 +74,8 @@
       <file leaf-file-name="index3.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.153846">
-              <caret line="176" column="19" selection-start-line="174" selection-start-column="8" selection-end-line="186" selection-end-column="14" />
+            <state vertical-scroll-proportion="-5.230769">
+              <caret line="443" column="23" selection-start-line="442" selection-start-column="2" selection-end-line="451" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -102,8 +106,8 @@
       <file leaf-file-name="ministries.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ministries.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.4880953">
-              <caret line="120" column="27" selection-start-line="120" selection-start-column="27" selection-end-line="120" selection-end-column="27" />
+            <state vertical-scroll-proportion="-2.0833333">
+              <caret line="609" column="32" selection-start-line="609" selection-start-column="6" selection-end-line="610" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -142,8 +146,8 @@
       <file leaf-file-name="_mystyles.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/foundation/components/_mystyles.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.4545455">
-              <caret line="339" column="11" selection-start-line="339" selection-start-column="11" selection-end-line="339" selection-end-column="11" />
+            <state vertical-scroll-proportion="-3.290909">
+              <caret line="684" column="10" selection-start-line="684" selection-start-column="10" selection-end-line="684" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -209,8 +213,8 @@
         <option value="$PROJECT_DIR$/home2.html" />
         <option value="$PROJECT_DIR$/scss/foundation/components/_block-grid.scss" />
         <option value="$PROJECT_DIR$/index1.html" />
-        <option value="$PROJECT_DIR$/scss/foundation/components/_mystyles.scss" />
         <option value="$PROJECT_DIR$/ministries.html" />
+        <option value="$PROJECT_DIR$/scss/foundation/components/_mystyles.scss" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -285,6 +289,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Lance/Documents/GitHub/First-African-Baptist-Church-2015/index.html" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -576,20 +581,26 @@
       <option name="project" value="LOCAL" />
       <updated>1437345965007</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Added heading text to ministries page">
+      <created>1437347891420</created>
+      <option name="number" value="00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1437347891421</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17633928" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.53294575" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Compare Directories" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29392973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42172524" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25888324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -616,7 +627,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ministries page v.1" />
     <MESSAGE value="Added preloader" />
     <MESSAGE value="Added Welcome page" />
     <MESSAGE value="Updated uncomitted files" />
@@ -641,7 +651,8 @@
     <MESSAGE value="Updated Links" />
     <MESSAGE value="Laptop update 07-19-2015" />
     <MESSAGE value="Updated index.html added content to ministries.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated index.html added content to ministries.html" />
+    <MESSAGE value="Added heading text to ministries page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added heading text to ministries page" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -969,6 +980,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.692307">
+          <caret line="179" column="63" selection-start-line="179" selection-start-column="63" selection-end-line="179" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ministries.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0833333">
+          <caret line="609" column="32" selection-start-line="609" selection-start-column="6" selection-end-line="610" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/home2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.9230769">
@@ -979,40 +1006,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.153846">
-          <caret line="176" column="19" selection-start-line="174" selection-start-column="8" selection-end-line="186" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.692307">
-          <caret line="179" column="63" selection-start-line="179" selection-start-column="63" selection-end-line="179" selection-end-column="95" />
+        <state vertical-scroll-proportion="-5.230769">
+          <caret line="443" column="23" selection-start-line="442" selection-start-column="2" selection-end-line="451" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/foundation/components/_mystyles.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.4545455">
-          <caret line="339" column="11" selection-start-line="339" selection-start-column="11" selection-end-line="339" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ministries.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.4880953">
-          <caret line="120" column="27" selection-start-line="120" selection-start-column="27" selection-end-line="120" selection-end-column="27" />
+        <state vertical-scroll-proportion="-3.290909">
+          <caret line="684" column="10" selection-start-line="684" selection-start-column="10" selection-end-line="684" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56958765">
-          <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+        <state vertical-scroll-proportion="1.655914">
+          <caret line="61" column="36" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>

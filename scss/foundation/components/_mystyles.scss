@@ -193,7 +193,8 @@ footer.inverted {
   }
 
   img {
-    margin-bottom: 1rem;
+    margin-bottom: .2rem;
+    margin-right: .2rem;
   }
 
   //  .left {
@@ -353,8 +354,24 @@ a.back-to-top {
   padding-top: 1rem;
 }
 .utility {
-  margin-top: 1.2rem;
-  max-width: 136px;
+  margin-top: .75rem;
+  max-width: 90px;
+  padding: 0 !important;
+
+  .nav {
+    //border: 1px solid rgba(0,0,0,.1);
+    padding: .2em .25em .4em;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    
+    &:hover {
+      background: rgba(0,0,0,.025);
+      border-color: rgba(0, 0, 0, .25);
+    }
+  }
 }
 .nav {
   li {
@@ -667,13 +684,13 @@ ul.right {
 
 .utility {
 
-  a {
+  /*a {
     opacity: .75;
 
     &:hover {
       opacity: 1;
     }
-  }
+  }*/
 }
 .reveal-modal {
   top: 60px;
@@ -908,6 +925,24 @@ Footer Styles
     position: absolute;
     right: 1.5rem;
     bottom: 1rem;
+  }
+}
+
+/*======================================
+           Buzzsprout player
+=======================================*/
+
+.episode {
+  
+  .download,
+  .date,
+  .artist,
+  .description  {
+    margin-bottom: 0;
+    
+    strong {
+      color: #fff;
+    }
   }
 }
 // .tp-banner {
