@@ -95,9 +95,9 @@ strong {
   background: rgba(255,255,255,1);
   //border-bottom: 1px solid rgba(52, 75, 86, 0.1);
   // border-collapse: separate;
-  border-right: 1px solid rgba(0,0,0,.05);
-  border-bottom: 1px solid rgba(0,0,0,.05);
-  border-left: 1px solid rgba(0,0,0,.05);
+  border-right: 1px solid rgba(25,75,86,.05);
+  border-bottom: 1px solid rgba(25,75,86,.05);
+  border-left: 1px solid rgba(25,75,86,.05);
   display: table;
   margin: 0 auto;
   max-width: 90rem;
@@ -120,6 +120,9 @@ strong {
 }
 .content-row-wrap {
   background: rgba(255,255,255,1);
+  //border-right: 1px solid rgba(25,75,86,.05);
+  //border-bottom: 1px solid rgba(25,75,86,.05);
+  //border-left: 1px solid rgba(25,75,86,.05);
   // border-collapse: separate;
   display: table;
   margin: 0 auto;
@@ -168,7 +171,9 @@ strong {
     color: rgba(255,255,255,.8);
   }
 }
-
+.inverted-lt {
+  background: rgba(25,75,86,.1);
+}
 footer.inverted {
   padding-top: 4rem;
 }
@@ -373,6 +378,21 @@ a.back-to-top {
     }
   }
 }
+.login {
+  position: absolute;
+  right: 1rem;
+  top: .6rem;
+  opacity: 0;
+  -webkit-transition: all 0.75s;
+  -moz-transition: all 0.75s;
+  -ms-transition: all 0.75s;
+  -o-transition: all 0.75s;
+  transition: all 0.75s;
+
+  &:hover {
+    opacity: .2;
+  }
+}
 .nav {
   li {
     display: inline-block;
@@ -384,7 +404,7 @@ a.back-to-top {
     padding: .25rem 1rem;
     text-transform: uppercase;
 
-    &.login,&.menu{
+    &.menu{
       padding: .25rem .5rem;
     }
   }
@@ -707,7 +727,7 @@ ul.right {
   border: none;
   border-radius: 0;
   box-shadow: none;
-  padding: 7rem 6rem;
+  padding: 5rem;
 
   .close-reveal-modal {
 
@@ -745,14 +765,36 @@ ul.right {
     opacity: 1;
   }
 }
+
 .modal-inner-wrap {
   //border-top: 1px solid rgba(0,0,0,.05);
   padding-top: 0;
   //padding: 3rem;
 
+  h2 {
+    padding-top: 0;
+  }
+
   p {
     font-size: 1rem;
     line-height: 2rem;
+  }
+  
+  ul {
+    margin-left: 0;
+  }
+
+  li {
+    line-height: 2rem;
+    list-style-type: none;
+
+    a {
+      color: rgba(0,0,0,.5);
+
+      &:hover {
+        color: rgba(0,0,0,.85);
+      }
+    }
   }
 }
 .reveal-modal .close-reveal-modal {
