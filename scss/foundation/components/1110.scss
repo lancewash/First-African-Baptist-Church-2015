@@ -1,0 +1,30 @@
+@media only screen and (max-width: 1110px) {
+
+  #logo {
+    background: url("../img/fabc-joy-logo-small.png") no-repeat;
+    max-width: 80%;
+    margin-top: 15px;
+  }
+  .logo {
+
+    margin-left: 2%;
+  }
+  .nav-bar-main a {
+    font-size: .6rem;
+  }
+  //.nav-bar-top a {
+  //  font-size: .5rem;
+  //}
+  //.show-for-large-up {
+  //  padding-left: 0 !important;
+  //  padding-right: 0 !important;
+  //}
+  //.nav a.menu {
+  //  float: right;
+  //  margin-top: .25rem;
+  //  padding-right: 0;
+  //}
+  .local {
+    background-size: 90%;
+  }
+}
