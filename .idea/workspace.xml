@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1245c807-bc5c-450f-9f4c-05f8ba0898ab" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/foundation.css" afterPath="$PROJECT_DIR$/css/foundation.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation.css" afterPath="$PROJECT_DIR$/scss/foundation.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/history.html" afterPath="$PROJECT_DIR$/history.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prepros.cfg" afterPath="$PROJECT_DIR$/prepros.cfg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="First-African-Baptist-Church-2015.iws" />
@@ -188,6 +188,7 @@
         <option value="$PROJECT_DIR$/scss/foundation/components/_global.scss" />
         <option value="$PROJECT_DIR$/css/foundation.css.map" />
         <option value="$PROJECT_DIR$/css/foundation.css" />
+        <option value="$PROJECT_DIR$/scss/foundation/components/_reveal.scss" />
         <option value="$PROJECT_DIR$/scss/foundation/components/_mixins.scss" />
         <option value="$PROJECT_DIR$/js/foundation.min.js" />
         <option value="$PROJECT_DIR$/rs-plugin/css/settings.css" />
@@ -200,31 +201,20 @@
         <option value="$PROJECT_DIR$/js/jquery.fadethis.min.js" />
         <option value="$PROJECT_DIR$/scss/foundation/components/animate.scss" />
         <option value="$PROJECT_DIR$/scss/foundation/components/animition.scss" />
+        <option value="$PROJECT_DIR$/scss/foundation.scss" />
         <option value="$PROJECT_DIR$/js/grid.js" />
         <option value="$PROJECT_DIR$/subpage-one.html" />
         <option value="$PROJECT_DIR$/scss/foundation/components/_thumb-grid.scss" />
+        <option value="$PROJECT_DIR$/leadership.html" />
+        <option value="$PROJECT_DIR$/scss/foundation/components/_buttons.scss" />
         <option value="$PROJECT_DIR$/subpage.html" />
         <option value="$PROJECT_DIR$/welcome.html" />
-        <option value="$PROJECT_DIR$/media.html" />
-        <option value="$PROJECT_DIR$/home.html" />
-        <option value="$PROJECT_DIR$/scss/foundation/components/_reveal.scss" />
-        <option value="$PROJECT_DIR$/scss/foundation/components/_buttons.scss" />
-        <option value="$PROJECT_DIR$/index2.html" />
-        <option value="$PROJECT_DIR$/home2.html" />
-        <option value="$PROJECT_DIR$/index1.html" />
-        <option value="$PROJECT_DIR$/scss/foundation/components/_block-grid.scss" />
-        <option value="$PROJECT_DIR$/scss/foundation/components/1200.scss" />
-        <option value="$PROJECT_DIR$/scss/foundation/components/1110.scss" />
-        <option value="$PROJECT_DIR$/scss/foundation/components/1056.scss" />
-        <option value="$PROJECT_DIR$/scss/foundation.scss" />
-        <option value="$PROJECT_DIR$/scss/foundation/components/700.scss" />
-        <option value="$PROJECT_DIR$/scss/foundation/components/1014.scss" />
-        <option value="$PROJECT_DIR$/scss/foundation/components/_mystyles.scss" />
-        <option value="$PROJECT_DIR$/ministries.html" />
-        <option value="$PROJECT_DIR$/leadership.html" />
-        <option value="$PROJECT_DIR$/history2.html" />
-        <option value="$PROJECT_DIR$/history.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/scss/foundation/components/_mystyles.scss" />
+        <option value="$PROJECT_DIR$/scss/foundation/components/_block-grid.scss" />
+        <option value="$PROJECT_DIR$/history.html" />
+        <option value="$PROJECT_DIR$/ministries.html" />
+        <option value="$PROJECT_DIR$/home.html" />
       </list>
     </option>
   </component>
@@ -315,22 +305,21 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="liveEdit" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.HTML" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Lance/Documents/GitHub/First-African-Baptist-Church-2015/index.html" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Lance\Documents\GitHub\First-African-Baptist-Church-2015" />
-      <recent name="C:\Users\Lance\Documents\GitHub\First-African-Baptist-Church-2015\scss\foundation\components" />
       <recent name="C:\Users\Lance\Documents\GitHub\First-African-Baptist-Church-2015\js" />
       <recent name="C:\Users\Lance\Documents\GitHub\First-African-Baptist-Church-2015\rs-plugin" />
       <recent name="C:\Users\Lance\Documents\GitHub\First-African-Baptist-Church-2015\css" />
+      <recent name="C:\Users\Lance\Documents\GitHub\First-African-Baptist-Church-2015\scss\foundation\components" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.jquery.fadethis.min.js">
@@ -524,133 +513,19 @@
       <option name="project" value="LOCAL" />
       <updated>1434844162595</updated>
     </task>
-    <task id="LOCAL-00022" summary="ministries">
-      <created>1434844922062</created>
+    <task id="LOCAL-00022" summary="ministry scroll added">
+      <created>1434844672082</created>
       <option name="number" value="00022" />
       <option name="project" value="LOCAL" />
-      <updated>1434844922062</updated>
+      <updated>1434844672082</updated>
     </task>
-    <task id="LOCAL-00023" summary="added home page template">
-      <created>1435334218414</created>
+    <task id="LOCAL-00023" summary="ministry scroll added">
+      <created>1434911749805</created>
       <option name="number" value="00023" />
       <option name="project" value="LOCAL" />
-      <updated>1435334218414</updated>
+      <updated>1434911749806</updated>
     </task>
-    <task id="LOCAL-00024" summary="multiple home page templates created">
-      <created>1435363600858</created>
-      <option name="number" value="00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1435363600858</updated>
-    </task>
-    <task id="LOCAL-00025" summary="multiple home pages created">
-      <created>1435363664255</created>
-      <option name="number" value="00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1435363664255</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Modified alternate home pages and added N2N block">
-      <created>1435419615385</created>
-      <option name="number" value="00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1435419615385</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Added h1">
-      <created>1435460662420</created>
-      <option name="number" value="00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1435460662420</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Added h1">
-      <created>1435460695518</created>
-      <option name="number" value="00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1435460695518</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Added h1">
-      <created>1435517741233</created>
-      <option name="number" value="00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1435517741233</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Added h1 enlarged">
-      <created>1435517850494</created>
-      <option name="number" value="00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1435517850494</updated>
-    </task>
-    <task id="LOCAL-00031" summary="h1 adjusted">
-      <created>1435519677240</created>
-      <option name="number" value="00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1435519677240</updated>
-    </task>
-    <task id="LOCAL-00032" summary="To MODx v.1">
-      <created>1435542850019</created>
-      <option name="number" value="00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1435542850019</updated>
-    </task>
-    <task id="LOCAL-00033" summary="To MODx v.2">
-      <created>1435712980656</created>
-      <option name="number" value="00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1435712980656</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Updated Links">
-      <created>1436208720287</created>
-      <option name="number" value="00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1436208720287</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Laptop update 07-19-2015">
-      <created>1437323482884</created>
-      <option name="number" value="00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1437323482884</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Updated index.html added content to ministries.html">
-      <created>1437345965007</created>
-      <option name="number" value="00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1437345965007</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Added heading text to ministries page">
-      <created>1437347891420</created>
-      <option name="number" value="00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1437347891421</updated>
-    </task>
-    <task id="LOCAL-00038" summary="First round of finalizations">
-      <created>1437360461376</created>
-      <option name="number" value="00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1437360461376</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Second round of finalizations">
-      <created>1437361139458</created>
-      <option name="number" value="00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1437361139458</updated>
-    </task>
-    <task id="LOCAL-00040" summary="rearranged home page">
-      <created>1437788504354</created>
-      <option name="number" value="00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1437788504354</updated>
-    </task>
-    <task id="LOCAL-00041" summary="synced image">
-      <created>1437788596103</created>
-      <option name="number" value="00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1437788596103</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Began creating media queries for responsive design. Added 5 breakpoints: 700, 1014, 1056, 1110, 1200. Added Buzzsprout podcast to home page block.">
-      <created>1438344520909</created>
-      <option name="number" value="00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1438344520909</updated>
-    </task>
-    <option name="localTasksCounter" value="43" />
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -659,23 +534,23 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17336309" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.53294575" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Compare Directories" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32755297" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4456929" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4456929" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32706767" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25888324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.53294575" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32706767" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.017374517" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -690,32 +565,25 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Top section first round" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;Conflicts:&#10;&#9;index.html&#10;" />
+    <MESSAGE value="navigation stuck width extended to 100%" />
+    <MESSAGE value="added leadership page" />
+    <MESSAGE value="leadership page v.1" />
+    <MESSAGE value="ministries page v.1" />
+    <MESSAGE value="Added preloader" />
+    <MESSAGE value="Added Welcome page" />
+    <MESSAGE value="Updated uncomitted files" />
+    <MESSAGE value="Fixed header nav - active state" />
+    <MESSAGE value="Added 2 unversioned files" />
+    <MESSAGE value="Map hover effect added" />
     <MESSAGE value="Map div container updated" />
     <MESSAGE value="Map div container updated2" />
     <MESSAGE value="added subpage template" />
     <MESSAGE value="adding jump to nav on ministries page" />
     <MESSAGE value="css changes" />
-    <MESSAGE value="ministries" />
-    <MESSAGE value="added home page template" />
-    <MESSAGE value="multiple home page templates created" />
-    <MESSAGE value="multiple home pages created" />
-    <MESSAGE value="Modified alternate home pages and added N2N block" />
-    <MESSAGE value="Added h1" />
-    <MESSAGE value="Added h1 enlarged" />
-    <MESSAGE value="h1 adjusted" />
-    <MESSAGE value="To MODx v.1" />
-    <MESSAGE value="To MODx v.2" />
-    <MESSAGE value="Updated Links" />
-    <MESSAGE value="Laptop update 07-19-2015" />
-    <MESSAGE value="Updated index.html added content to ministries.html" />
-    <MESSAGE value="Added heading text to ministries page" />
-    <MESSAGE value="First round of finalizations" />
-    <MESSAGE value="Second round of finalizations" />
-    <MESSAGE value="rearranged home page" />
-    <MESSAGE value="synced image" />
-    <MESSAGE value="Began creating media queries for responsive design" />
-    <MESSAGE value="Began creating media queries for responsive design. Added 5 breakpoints: 700, 1014, 1056, 1110, 1200. Added Buzzsprout podcast to home page block." />
-    <option name="LAST_COMMIT_MESSAGE" value="Began creating media queries for responsive design. Added 5 breakpoints: 700, 1014, 1056, 1110, 1200. Added Buzzsprout podcast to home page block." />
+    <MESSAGE value="ministry scroll added" />
+    <option name="LAST_COMMIT_MESSAGE" value="ministry scroll added" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1121,20 +989,5 @@
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

@@ -7645,14 +7645,14 @@ a.back-to-top {
   position: absolute;
   right: 1rem;
   top: .6rem;
-  opacity: 0;
+  opacity: .25;
   -webkit-transition: all 0.75s;
   -moz-transition: all 0.75s;
   -ms-transition: all 0.75s;
   -o-transition: all 0.75s;
   transition: all 0.75s; }
   .login:hover {
-    opacity: .2; }
+    opacity: .5; }
 
 .nav li {
   display: inline-block;
